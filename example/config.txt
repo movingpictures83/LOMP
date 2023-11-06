@@ -1,0 +1,2 @@
+Prefix plugins/LOMP/example/
+Plugin LOMP inputfile parameters.txt outputfile output.txt
